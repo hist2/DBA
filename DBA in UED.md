@@ -185,10 +185,7 @@ $$
 
 <img src="assets/Aust.-Synchrotron%252C-Sextupole-Focusing-Magnet%252C-14.06.2007.jpg" alt="img" style="zoom:33%;" /> <img src="assets/1920px-Magnetic_field_of_an_idealized_sextupole.svg.png" alt="img" style="zoom:20%;" />
 
-
-$$
-
-$$
+([Sextupole magnet - Wikipedia](https://en.wikipedia.org/wiki/Sextupole_magnet))
 
 ## 动量压缩因子是什么？
 
